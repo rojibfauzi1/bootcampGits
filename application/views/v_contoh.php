@@ -17,3 +17,10 @@
 		<th>No</th>
 	</tr>
 </table>
+
+<form>
+	<tr>
+		<td></td>
+		<td><input type="text"></td>
+	</tr>
+</form>
